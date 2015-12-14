@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_bg.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_up.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\arrow_up.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_more_setteing.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_more_setteing.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_invite.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_invite.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_hang_up.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_hang_up.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_page_3.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_page_3.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_ems.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_ems.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_invite_weixin.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_invite_weixin.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_delete_room.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_delete_room.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_del.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\camera_del.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_camera_off_select.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_off_select.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_chat.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_chat.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_bg_sire.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_bg_sire.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_page_2.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_page_2.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_email.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_email.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_from_bg.9.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\chat_from_bg.9.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\copy_link_bg.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\copy_link_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_copy_text.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_copy_text.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_camera_switch.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_switch.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pp_bg.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\pp_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edittext_bg.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\edittext_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_camera_on.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_on.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_close.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_close.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\popup_bg2.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\popup_bg2.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrow_down.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_no_internet.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_no_internet.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_rename_room.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_rename_room.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_page_1.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_page_1.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_to_bg.9.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\chat_to_bg.9.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_camera_back.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_back.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_get_room.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_get_room.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_notifications.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_notifications.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\main_bg.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\main_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_invite_message.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_invite_message.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_join_room.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_join_room.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_camera_off.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_camera_off.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_people_count.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\chat_people_count.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_bg.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\start_bg.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_voice_on.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_voice_on.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_voice_off.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_voice_off.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_copy_link.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\view_copy_link.png"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_guide.png",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable-xhdpi\\btn_guide.png"
+    }
+]

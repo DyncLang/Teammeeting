@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\Wrok_Coding\Teammeeting\app\src\main\res"/><source path="E:\Wrok_Coding\Teammeeting\app\build\generated\res\rs\debug"/><source path="E:\Wrok_Coding\Teammeeting\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\Wrok_Coding\Teammeeting\app\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\Wrok_Coding\Teammeeting\app\src\main\res"><file name="activity_close_enter" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\activity_close_enter.xml" qualifiers="" type="anim"/><file name="activity_close_exit" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\activity_close_exit.xml" qualifiers="" type="anim"/><file name="activity_open_enter" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\activity_open_enter.xml" qualifiers="" type="anim"/><file name="activity_open_exit" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\activity_open_exit.xml" qualifiers="" type="anim"/><file name="image_progress" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\image_progress.xml" qualifiers="" type="anim"/><file name="popuphide" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\popuphide.xml" qualifiers="" type="anim"/><file name="popupshow" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\anim\popupshow.xml" qualifiers="" type="anim"/><file name="custom_progressive_dialog_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable\custom_progressive_dialog_bg.xml" qualifiers="" type="drawable"/><file name="dot_focused" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable\dot_focused.xml" qualifiers="" type="drawable"/><file name="dot_normal" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable\dot_normal.xml" qualifiers="" type="drawable"/><file name="internet_dialog_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable\internet_dialog_bg.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-hdpi\progress_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="arrow_down" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\arrow_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="arrow_up" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\arrow_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_camera_back" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_camera_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_camera_off" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_camera_off.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_camera_off_select" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_camera_off_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_camera_on" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_camera_on.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_camera_switch" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_camera_switch.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_chat" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_chat.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_get_room" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_get_room.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_guide" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_guide.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_hang_up" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_hang_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_invite" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_invite.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_more_setteing" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_more_setteing.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_voice_off" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_voice_off.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_voice_on" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\btn_voice_on.png" qualifiers="xhdpi-v4" type="drawable"/><file name="camera_del" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\camera_del.png" qualifiers="xhdpi-v4" type="drawable"/><file name="chat_from_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\chat_from_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="chat_people_count" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\chat_people_count.png" qualifiers="xhdpi-v4" type="drawable"/><file name="chat_to_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\chat_to_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="copy_link_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\copy_link_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="edittext_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\edittext_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="main_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\main_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_bg2" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_bg2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_bg_sire" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_bg_sire.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_close" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_close.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_copy_text" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_copy_text.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_email" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_email.png" qualifiers="xhdpi-v4" type="drawable"/><file name="popup_ems" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\popup_ems.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pp_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\pp_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="start_bg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\start_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_copy_link" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_copy_link.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_delete_room" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_delete_room.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_invite_message" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_invite_message.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_invite_weixin" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_invite_weixin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_join_room" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_join_room.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_notifications" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_notifications.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_no_internet" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_no_internet.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_page_1" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_page_1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_page_2" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_page_2.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_page_3" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_page_3.png" qualifiers="xhdpi-v4" type="drawable"/><file name="view_rename_room" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xhdpi\view_rename_room.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_guide_view_page" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_guide_view_page.xml" qualifiers="" type="layout"/><file name="activity_invite_people" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_invite_people.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_meeting" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_meeting.xml" qualifiers="" type="layout"/><file name="activity_room_setting" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_room_setting.xml" qualifiers="" type="layout"/><file name="activity_share" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_share.xml" qualifiers="" type="layout"/><file name="activity_start_flash" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\activity_start_flash.xml" qualifiers="" type="layout"/><file name="chat_from_msg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\chat_from_msg.xml" qualifiers="" type="layout"/><file name="chat_send_msg" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\chat_send_msg.xml" qualifiers="" type="layout"/><file name="copy_link_view" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\copy_link_view.xml" qualifiers="" type="layout"/><file name="fragment_main" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\fragment_main.xml" qualifiers="" type="layout"/><file name="head" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\head.xml" qualifiers="" type="layout"/><file name="include_chatting" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\include_chatting.xml" qualifiers="" type="layout"/><file name="item_room_adapter" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\item_room_adapter.xml" qualifiers="" type="layout"/><file name="menu_setting" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\menu_setting.xml" qualifiers="" type="layout"/><file name="menu_share" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\menu_share.xml" qualifiers="" type="layout"/><file name="no_internet_view" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\no_internet_view.xml" qualifiers="" type="layout"/><file name="popup_layout" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\popup_layout.xml" qualifiers="" type="layout"/><file name="popup_layout_horiz" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\popup_layout_horiz.xml" qualifiers="" type="layout"/><file name="progress_view" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\layout\progress_view.xml" qualifiers="" type="layout"/><file name="main" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file name="share" path="E:\Wrok_Coding\Teammeeting\app\src\main\res\menu\share.xml" qualifiers="" type="menu"/><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values\attrs.xml" qualifiers=""><attr format="reference" name="progressButtonStyle"/><attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr><declare-styleable name="IconMenuWidget">
+        <attr format="reference" name="drawable"/>
+        <attr format="float" name="drawableRelativeTopPosition"/>
+        <attr format="float" name="drawableRelativeCenterPosition"/>
+        <attr format="float" name="textRelativePosition"/>
+        <attr format="boolean" name="isSquare"/>
+    </declare-styleable><declare-styleable name="CustomImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+        <attr name="src"/>
+    </declare-styleable><attr format="reference|dimension" name="drawablePadding"/><attr name="fixedAlong">
+        <enum name="width" value="0"/>
+        <enum name="height" value="1"/>
+    </attr><attr format="dimension" name="borderRadius"/><declare-styleable name="SquareImage">
+        <attr name="fixedAlong"/>
+    </declare-styleable><attr format="reference" name="src"/><attr format="reference|dimension" name="span"/><declare-styleable name="swipelistviewstyle">
+        <attr format="reference" name="right_width"/>
+        <attr format="reference" name="left_width"/>
+    </declare-styleable><attr name="expand_gravity">
+        <flag name="left" value="0x03"/>
+        <flag name="right" value="0x05"/>
+    </attr><declare-styleable name="ExpandCollapseTextView">
+        <attr format="reference|string" name="text"/>
+        <attr format="reference|dimension" name="textSize"/>
+        <attr format="reference|color" name="textColor"/>
+        <attr format="reference|string" name="expandText"/>
+        <attr format="reference|color" name="expandTextColor"/>
+        <attr format="reference|string" name="collapseText"/>
+        <attr format="reference|color" name="collapseTextColor"/>
+        <attr format="reference" name="expandDrawable"/>
+        <attr format="reference" name="collapseDrawable"/>
+        <attr format="integer" name="maxLine"/>
+        <attr format="boolean" name="showDrawable"/>
+        <attr format="boolean" name="expandTextBold"/>
+        <attr name="drawableWidth"/>
+        <attr name="drawableHeight"/>
+        <attr name="drawablePadding"/>
+        <attr name="span"/>
+        <attr name="expand_gravity"/>
+    </declare-styleable><declare-styleable name="PullToRefresh">
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+            <flag name="both" value="0x3"/>
+        </attr>
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+        <attr format="reference" name="ptrDrawable"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="AutoFitImageWidget">
+        <attr format="float" name="imageScale"/>
+    </declare-styleable><declare-styleable name="FixedAspectRatioFrameLayout">
+        <attr format="float" name="aspectRatio"/>
+    </declare-styleable><attr format="reference|dimension" name="drawableWidth"/><declare-styleable name="FancyCoverFlow">
+        <attr format="float" name="unselectedAlpha"/>
+        <attr format="float" name="unselectedSaturation"/>
+        <attr format="float" name="unselectedScale"/>
+        <attr format="integer" name="maxRotation"/>
+        <attr format="float" name="scaleDownGravity"/>
+        <attr format="integer" name="actionDistance">
+            <enum name="auto" value="2147483647"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ScratchView">
+        <attr format="reference|string" name="contentText"/>
+        <attr format="reference" name="drawableForeground"/>
+        <attr format="integer" name="paintColor"/>
+        <attr format="integer" name="brushWidth"/>
+        <attr format="integer" name="textPaintSize"/>
+        <attr format="float" name="threshold"/>
+    </declare-styleable><declare-styleable name="SwipeListView">
+        <attr format="boolean" name="swipeOpenOnLongPress"/>
+        <attr format="integer" name="swipeAnimationTime"/>
+        <attr format="dimension" name="swipeOffsetLeft"/>
+        <attr format="dimension" name="swipeOffsetRight"/>
+        <attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/>
+        <attr format="reference" name="swipeFrontView"/>
+        <attr format="reference" name="swipeBackView"/>
+        <attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+        </attr>
+        <attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ProgressButton">
+        <attr format="integer" name="progress"/>
+        <attr format="integer" name="max"/>
+        <attr format="color" name="circleColor"/>
+        <attr format="color" name="progressColor"/>
+        <attr format="reference" name="pinnedDrawable"/>
+        <attr format="reference" name="unpinnedDrawable"/>
+        <attr format="reference" name="buttonShadowDrawable"/>
+        <attr format="dimension" name="innerSize"/>
+        <attr format="boolean" name="pinned"/>
+        <attr name="android:selectableItemBackground"/>
+        <attr name="android:clickable"/>
+        <attr name="android:focusable"/>
+    </declare-styleable><declare-styleable name="IconCompoundWidget">
+        <attr format="reference" name="drawableLeft"/>
+        <attr format="reference" name="drawableRight"/>
+        <attr format="reference" name="drawableTop"/>
+        <attr format="reference" name="drawableBottom"/>
+        <attr name="drawablePadding"/>
+        <attr name="drawableWidth"/>
+        <attr name="drawableHeight"/>
+        <attr name="drawableMode">
+            <enum name="center" value="0"/>
+            <enum name="text_center" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ArcMenu">
+        <attr format="float" name="fromDegrees"/>
+        <attr format="float" name="toDegrees"/>
+        <attr format="dimension" name="childSize"/>
+        <attr format="reference" name="hitDrawable"/>
+    </declare-styleable><declare-styleable name="ShowcaseView">
+        <attr format="color|reference" name="backgroundColor"/>
+    </declare-styleable><declare-styleable name="RectangleImage">
+        <attr format="float" name="widthScale"/>
+        <attr name="fixedAlong"/>
+    </declare-styleable><declare-styleable name="CustomProgressBar">
+        <attr format="dimension" name="size"/>
+        <attr format="color|reference" name="color"/>
+        <attr name="span"/>
+        <attr format="integer" name="number"/>
+    </declare-styleable><declare-styleable name="RoundImageView">
+        <attr format="dimension" name="edgeWidth"/>
+        <attr format="color" name="edgeColor"/>
+    </declare-styleable><attr format="reference|dimension" name="drawableHeight"/><declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="dimension" name="behindSecondaryWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="float" name="fadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable><declare-styleable name="RayMenu">
+        <attr format="dimension" name="leftHolderWidth"/>
+    </declare-styleable></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values\colors.xml" qualifiers=""><color name="toolbar_gray">#767C8A</color><color name="middleBlue">#3CC29F</color><color name="black_deep">#FF000000</color><color name="darkGray">#808080</color><color name="btn_gray_normal">#c0c0c0</color><color name="black_gray">#4D4D4D</color><color name="common_top_bar_blue">#22292c</color><color name="error_item_color">#F6EBE6</color><color name="btn_register_pressed">#4ebcd3</color><color name="setting_line_color">#cccccc</color><color name="vifrification">#00000000</color><color name="btn_logout_pressed">#DA5A4D</color><color name="color_login_successfully">#22FF00</color><color name="dialog_black">#131314</color><color name="toolbar_blue">#3CA1F1</color><color name="transparent">#00000000</color><color name="btn_white_normal">#f7f8f8</color><color name="lightBlue">#0FB2CB</color><color name="grid_state_pressed">#1Affffff</color><color name="bottom_text_color_normal">#ffffff</color><color name="setting_bg_nor">#ffffff</color><color name="right_bg">#696969</color><color name="gray_txt">#7b7b7b</color><color name="green">#00FF00</color><color name="btn_green_noraml">#68C270</color><color name="layout_content_black">#141415</color><color name="blue">#0000FF</color><color name="grid_state_focused">#80000000</color><color name="blue_green">#0681ff</color><color name="orange">#FFA500</color><color name="gold">#FFD700</color><color name="btn_pressed_green_solid">#B6DA53</color><color name="gray_normal">#666667</color><color name="btn_gray_pressed_status">#b5b5b6</color><color name="grey">#C0C0C0</color><color name="white">#FFFFFF</color><color name="mediumslateblue">#7B68EE</color><color name="btn_logout_normal">#d33f3f</color><color name="btn_white_pressed">#b5b5b6</color><color name="btn_blue_pressed">#0066FF</color><color name="toolbar_black">#878D96</color><color name="main_red">#FD5856</color><color name="black">#000000</color><color name="orange_yellow">#FF9600</color><color name="main_blue">#17B6FD</color><color name="none">#00FFFFFF</color><color name="toolbar_white">#F6F6F6</color><color name="gainsboro">#DCDCDC</color><color name="btn_green_pressed">#6FCD78</color><color name="btn_login_pressed">#303744</color><color name="gray_pressed">#b5b5b6</color><color name="voip_interface_text_color">#bababa</color><color name="common_botton_bar_blue">#2ea7e0</color><color name="btn_login_normal">#007086</color><color name="bottom_bar_normal_bg">#2D2F31</color><color name="divider_list">#cccccc</color><color name="select_blue">#0377ef</color><color name="common_bottom_bar_selected_bg">#161718</color><color name="pull_refresh_textview">#000000</color><color name="red">#FF0000</color><color name="btn_register_normal">#2dafa3</color><color name="setting_bg_p">#f5f5f5</color><color name="btn_blue_normal">#1e90ff</color><color name="grayBlue">#69819f</color><color name="color_explain">#999898</color><color name="top_bar_normal_bg">#4ebcd3</color><color name="btn_gray_pressed">#666667</color><color name="gray_white">#ebecee</color><color name="common_bottom_bar_normal_bg">#2d2f31</color><color name="milkWhite">#bebebe</color><color name="snow_white">#FFFAFA</color><color name="bg">#e7e3e7</color><color name="bluegreen">#17b6fd</color><color name="layout_content_green">#00d632</color><color name="common_bg">#fcfcfc</color><color name="mcu_black">#353738</color><color name="grey_white">#e9e9e9</color><color name="cyan">#B7EF00</color><color name="divider_color">#ffcdcdcd</color><color name="ivory">#FFFFF0</color><color name="grey_txt">#919090</color><color name="skyblue">#C4E0F6</color></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="height_row_weixin">59dp</dimen><dimen name="field_textsize">14sp</dimen><dimen name="margin_chat_activity">5dp</dimen><dimen name="image_thumbnail_spacing">1dp</dimen><dimen name="call_button_padding_right">25dp</dimen><dimen name="call_button_padding_vertical">10dp</dimen><dimen name="size_avatar">50dp</dimen><dimen name="field_margin_right">5dp</dimen><dimen name="sidebar_text_size">10dp</dimen><dimen name="small_txt_size">12sp</dimen><dimen name="middle_txt_size">15sp</dimen><dimen name="left_width_margin">-80dp</dimen><dimen name="left_width">80dp</dimen><dimen name="header_height">50dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="largest_txt_size">19sp</dimen><dimen name="normal_txt_size">14sp</dimen><dimen name="right_width">80dp</dimen><dimen name="title_height">80dp</dimen><dimen name="larger_txt_size">17sp</dimen><dimen name="more_item_height">44dp</dimen><dimen name="largest_most_txt_size">21sp</dimen><dimen name="height_top_bar">48dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="list_divider_height">8dp</dimen><dimen name="call_button_padding_left">25dp</dimen><dimen name="image_thumbnail_size">100dp</dimen><dimen name="padding_search_bar">5dp</dimen></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values\strings.xml" qualifiers=""><string name="str_hint_send_message">发送消息</string><string name="str_send_message">发送</string><string name="str_no_internet_tip">我们遇到了一些麻烦,因为你的设备没有连接到互联网</string><string name="str_content_empty">您还没有填写信息呢...</string><string name="str_notifications">会议提醒</string><string name="str_copy">复制</string><string name="str_weixin_invite">微信邀请</string><string name="loading">正在登录请稍候..</string><string name="str_message_invite">短信邀请</string><string name="str_no_internet_connection">无网络连接</string><string name="str_copy_link">拷贝链接</string><string name="hello_world">Hello world!</string><string name="str_copy_link_invite">你也可以复制粘贴会议的安全链接来邀请好友</string><string name="action_settings">Settings</string><string name="str_hintm">会议名称 （可选）</string><string name="str_rename_room">修改会议名称</string><string name="app_name">TeamMeeting</string><string name="str_rent_rooms">最近会议</string><string name="str_cancel_create">取消</string><string name="title_activity_share">ShareActivity</string><string name="exit_once_more">再点击一次退出</string><string name="str_invite_people">邀请好友加入会议？</string><string name="str_weixin">微信</string><string name="str_join_room">进入会议</string><string name="str_message">短信</string><string name="str_get_room">创建会议室</string><string name="str_chat">聊天室</string><string name="str_delete_room">删除会议</string><string name="str_invite_people_to_room">你想通过什么方法邀请好友进入会议?</string><string name="str_close">关闭</string><string name="str_connect_internet">连接网络</string></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values\styles.xml" qualifiers=""><style name="SwitchButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style><style name="dot_style">
+        <item name="android:layout_width">5dip</item>
+        <item name="android:layout_height">5dip</item>
+        <item name="android:background">@drawable/dot_normal</item>
+        <item name="android:layout_marginLeft">1.5dip</item>
+        <item name="android:layout_marginRight">1.5dip</item>
+    </style><style name="RtkProgressiveDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="TopBar_Style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="Btn_left">
+        <item name="android:layout_width">@dimen/header_height</item>
+        <item name="android:layout_height">@dimen/header_height</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:padding">5dp</item>
+        
+    </style><style name="Left_Title_Txt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/main_blue</item>
+        <item name="android:textSize">@dimen/larger_txt_size</item>
+    </style><style name="Title_Txt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/largest_txt_size</item>
+        <item name="android:textStyle">bold</item>
+    </style><style name="popwin_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popupshow</item>
+        <item name="android:windowExitAnimation">@anim/popuphide</item>
+    </style><style name="chat_date_style">
+        <item name="android:textColor">#F5F5F5</item>
+        <item name="android:background">#BEBDBE</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="Btn_right">
+        <item name="android:layout_width">@dimen/header_height</item>
+        <item name="android:layout_height">@dimen/header_height</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:scaleType">centerInside</item>
+        <item name="android:padding">5dp</item>
+        
+    </style></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="E:\Wrok_Coding\Teammeeting\app\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\Wrok_Coding\Teammeeting\app\build\generated\res\rs\debug"/><source path="E:\Wrok_Coding\Teammeeting\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\Wrok_Coding\Teammeeting\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/><flag name="both" value="0x3"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr></declare-styleable><declare-styleable name="CustomImageView"><attr name="borderRadius"/><attr name="type"/><attr name="src"/></declare-styleable><declare-styleable name="ScratchView"><attr format="reference|string" name="contentText"/><attr format="reference" name="drawableForeground"/><attr format="integer" name="paintColor"/><attr format="integer" name="brushWidth"/><attr format="integer" name="textPaintSize"/><attr format="float" name="threshold"/></declare-styleable><declare-styleable name="swipelistviewstyle"><attr format="reference" name="right_width"/><attr format="reference" name="left_width"/></declare-styleable><declare-styleable name="ArcMenu"><attr format="float" name="fromDegrees"/><attr format="float" name="toDegrees"/><attr format="dimension" name="childSize"/><attr format="reference" name="hitDrawable"/></declare-styleable><declare-styleable name="ExpandCollapseTextView"><attr format="reference|string" name="text"/><attr format="reference|dimension" name="textSize"/><attr format="reference|color" name="textColor"/><attr format="reference|string" name="expandText"/><attr format="reference|color" name="expandTextColor"/><attr format="reference|string" name="collapseText"/><attr format="reference|color" name="collapseTextColor"/><attr format="reference" name="expandDrawable"/><attr format="reference" name="collapseDrawable"/><attr format="integer" name="maxLine"/><attr format="boolean" name="showDrawable"/><attr format="boolean" name="expandTextBold"/><attr name="drawableWidth"/><attr name="drawableHeight"/><attr name="drawablePadding"/><attr name="span"/><attr name="expand_gravity"/></declare-styleable><declare-styleable name="CustomProgressBar"><attr format="dimension" name="size"/><attr format="color|reference" name="color"/><attr name="span"/><attr format="integer" name="number"/></declare-styleable><declare-styleable name="RoundImageView"><attr format="dimension" name="edgeWidth"/><attr format="color" name="edgeColor"/></declare-styleable><declare-styleable name="IconMenuWidget"><attr format="reference" name="drawable"/><attr format="float" name="drawableRelativeTopPosition"/><attr format="float" name="drawableRelativeCenterPosition"/><attr format="float" name="textRelativePosition"/><attr format="boolean" name="isSquare"/></declare-styleable><declare-styleable name="FancyCoverFlow"><attr format="float" name="unselectedAlpha"/><attr format="float" name="unselectedSaturation"/><attr format="float" name="unselectedScale"/><attr format="integer" name="maxRotation"/><attr format="float" name="scaleDownGravity"/><attr format="integer" name="actionDistance"><enum name="auto" value="2147483647"/></attr></declare-styleable><declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode"><enum name="none" value="0"/><enum name="both" value="1"/><enum name="right" value="2"/><enum name="left" value="3"/></attr><attr format="enum" name="swipeActionLeft"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/></attr><attr format="enum" name="swipeActionRight"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/></attr></declare-styleable><declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="dimension" name="behindSecondaryWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable><declare-styleable name="IconCompoundWidget"><attr format="reference" name="drawableLeft"/><attr format="reference" name="drawableRight"/><attr format="reference" name="drawableTop"/><attr format="reference" name="drawableBottom"/><attr name="drawablePadding"/><attr name="drawableWidth"/><attr name="drawableHeight"/><attr name="drawableMode"><enum name="center" value="0"/><enum name="text_center" value="1"/></attr></declare-styleable><declare-styleable name="AutoFitImageWidget"><attr format="float" name="imageScale"/></declare-styleable><declare-styleable name="RectangleImage"><attr format="float" name="widthScale"/><attr name="fixedAlong"/></declare-styleable><declare-styleable name="FixedAspectRatioFrameLayout"><attr format="float" name="aspectRatio"/></declare-styleable><declare-styleable name="RayMenu"><attr format="dimension" name="leftHolderWidth"/></declare-styleable><declare-styleable name="ShowcaseView"><attr format="color|reference" name="backgroundColor"/></declare-styleable><declare-styleable name="ProgressButton"><attr format="integer" name="progress"/><attr format="integer" name="max"/><attr format="color" name="circleColor"/><attr format="color" name="progressColor"/><attr format="reference" name="pinnedDrawable"/><attr format="reference" name="unpinnedDrawable"/><attr format="reference" name="buttonShadowDrawable"/><attr format="dimension" name="innerSize"/><attr format="boolean" name="pinned"/><attr name="android:selectableItemBackground"/><attr name="android:clickable"/><attr name="android:focusable"/></declare-styleable><declare-styleable name="SquareImage"><attr name="fixedAlong"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\image_progress.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\image_progress.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popuphide.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\popuphide.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_enter.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\activity_open_enter.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_exit.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\activity_open_exit.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popupshow.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\popupshow.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_enter.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\activity_close_enter.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_exit.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\anim\\activity_close_exit.xml"
+    }
+]

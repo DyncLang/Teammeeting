@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\internet_dialog_bg.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable\\internet_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_focused.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable\\dot_focused.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_normal.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable\\dot_normal.xml"
+    },
+    {
+        "merged": "E:\\Wrok_Coding\\Teammeeting\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressive_dialog_bg.xml",
+        "source": "E:\\Wrok_Coding\\Teammeeting\\app\\src\\main\\res\\drawable\\custom_progressive_dialog_bg.xml"
+    }
+]
